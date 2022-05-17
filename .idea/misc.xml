@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/background.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/button.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/container_components.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/container_user.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/edit_text_email.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/ic_email.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/ic_eye.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/drawable/ic_personal_background.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_editar_aluno.xml" value="0.25" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_form_cadastro.xml" value="0.384375" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_inserir_aluno.xml" value="0.25" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_lista_alunos.xml" value="0.22" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_lista_exercicios.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_main_itens.xml" value="0.25" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/activity_principal.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/aluno_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/ctivity_list2.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/layout/exercicio_lista.xml" value="0.33" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/alunos_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/editar_exercicios.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/inserir_exercicios.xml" value="1.3178571428571428" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/menu_activity_editar_alunos.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/menu_activity_inserir_aluno.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/menu_editar_exercicios.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/menu_exercicios.xml" value="0.1921875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/menu/menu_inserir_exercicios.xml" value="0.22" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/mipmap-anydpi-v26/ic_personal.xml" value="0.1046875" />
+        <entry key="..\:/Users/ander/AndroidStudioProjects/PersonaFitnessApplication/app/src/main/res/mipmap-anydpi-v26/ic_personal_round.xml" value="0.1046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

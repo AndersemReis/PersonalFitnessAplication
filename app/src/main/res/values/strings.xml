@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PersonalFitnessApplication</string>
+    <string name="btn_entrar">Entrar Google</string>
+    <string name="txt_cadastro">Crie uma conta clicando aqui</string>
+    <string name="txt_tela_cadastro">Cadastre-se</string>
+    <string name="txt_btn_cadastrar">Cadastrar</string>
+    <string name="txt_btn_tela_logon">Entrar Google</string>
+    <string name="txt_btn_deslogar">Deslogar</string>
+    <string name="txt_adicionar_aluno">Adicionar</string>
+    <string name="txt_excluir_aluno">Excluir</string>
+    <string name="btn_personal">Personal</string>
+    <string name="btn_aluno">Aluno</string>
+    <string name="txt_perfil">Perfil</string>
+    <string name="txt_aluno">Cadastro de Alunos</string>
+    <string name="txt_email_aluno">Email:</string>
+    <string name="btn_busca_email_banco">Verificar Cadastro</string>
+    <string name="txt_nome_aluno">Nome:</string>
+    <string name="checkbox_masculino">Masculino</string>
+    <string name="checkbox_feminino">Feminino</string>
+    <string name="txt_idade">Idade: </string>
+    <string name="txt_altura">Altura: </string>
+    <string name="txt_peso">Peso: </string>
+    <string name="txt_sexo">Sexo: </string>
+    <string name="txt_adicionar_exerc">Adicionar</string>
+</resources>
